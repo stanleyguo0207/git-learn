@@ -16,3 +16,8 @@
         ```
         .git/config
         ```
+-   git log
+
+    ```
+    git log --pretty=format:"%h %s" --graph
+    ```
