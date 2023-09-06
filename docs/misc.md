@@ -36,3 +36,9 @@
     ```
     git shortlog --no-merges master --not v0.0.1
     ```
+
+-   git merge
+
+    ```
+    git merge -Xignore-space-change whitespace
+    ```
