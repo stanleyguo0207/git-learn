@@ -1,6 +1,6 @@
 # hello函数
 def hello():
-    print("hello, mundo")
+    print("hello, world")
     
 if __name__ == "__main__":
     hello()
